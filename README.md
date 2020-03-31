@@ -1,3 +1,7 @@
+## Management System
+
+This projcet refers customer management system created by 동빈나
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
